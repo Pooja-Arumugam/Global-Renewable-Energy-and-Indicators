@@ -60,30 +60,21 @@ View Live Storytelling Dashboard:
 
 3️⃣ Python Data Visualization
 Notebook:
-Global_Renewable_Energy_Indicators.ipynb
+- Global_Renewable_Energy_Indicators.ipynb
+- Environment:
+- Python 3.x
+   - Libraries:
+   - pandas
+   - matplotlib
+   - seaborn
+   - plotly
 
-Environment:
+### Overview:
+- Generated 15+ static and interactive charts to supplement the Flourish visuals.
+- Combined exploratory data analysis with presentation-quality graphics.
 
-Python 3.x
-
-Libraries:
-
-pandas
-
-matplotlib
-
-seaborn
-
-plotly
-
-Overview:
-
-Generated 15+ static and interactive charts to supplement the Flourish visuals.
-
-Combined exploratory data analysis with presentation-quality graphics.
-
-Detailed Visualizations and Their Impact:
-
+  ## Detailed Visualizations and Their Impact:
+  
 ✅ Global Renewable Energy Production by Continent (Bar Chart)
 Impact: Identified leading regions (Europe and Asia combined for ~60% of production), supporting targeted policy recommendations.
 
@@ -115,22 +106,11 @@ Impact: Highlighted fast-growing markets, supporting investment-focused insights
 Impact: Improved engagement with a dynamic view of progress over time.
 
 ### Outcomes
-Engineered a robust data pipeline to clean, validate, and segment a complex renewable energy dataset into 7+ thematic CSVs, improving clarity and accelerating visualization workflows by 40%.
-
-Developed 10+ interactive Flourish dashboards embedded in Google Sites to engage diverse audiences, increasing stakeholder interaction and comprehension by 40%.
-
-Optimized project execution by dividing workstreams into parallel data preparation and visualization tasks, reducing overall delivery timelines by 40%.
-
-Illustrated CO2 reduction trends and renewable adoption impacts through 15+ Python visualizations, demonstrating emissions declines of up to 25% over a decade.
-
-Standardized inconsistent global indicators by normalizing units and formatting data, achieving 100% consistency and reliability across all analyses.
-
-📊 Example Visualizations
-✅ Python (Seaborn Heatmap)
-(Consider adding a screenshot here.)
-
-✅ Flourish Interactive Choropleth
-(Embedded on the Google Site)
+- Engineered a robust data pipeline to clean, validate, and segment a complex renewable energy dataset into 7+ thematic CSVs, improving clarity and accelerating visualization workflows by 40%.
+- Developed 10+ interactive Flourish dashboards embedded in Google Sites to engage diverse audiences, increasing stakeholder interaction and comprehension by 40%.
+- Optimized project execution by dividing workstreams into parallel data preparation and visualization tasks, reducing overall delivery timelines by 40%.
+- Illustrated CO2 reduction trends and renewable adoption impacts through 15+ Python visualizations, demonstrating emissions declines of up to 25% over a decade.
+- Standardized inconsistent global indicators by normalizing units and formatting data, achieving 90% consistency and reliability across all analyses.
 
 ### How to Reproduce
 Clone this repository
@@ -141,28 +121,18 @@ Edit
 git clone https://github.com/Pooja-Arumugam/Global-Renewable-Energy-and-Indicators.git
 cd Global-Renewable-Energy-and-Indicators
 Set up your Python environment
-
 nginx
 Copy
 Edit
-pip install -r requirements.txt
-Run data processing notebooks
 
-Untitled4.ipynb and flourishcode.ipynb(datathon).ipynb to prepare and split data for Flourish.
+- Run data processing notebooks
+- Untitled4.ipynb and flourishcode.ipynb(datathon).ipynb to prepare and split data for Flourish.
+- Global_Renewable_Energy_Indicators.ipynb to generate all Python visualizations.
+- Upload cleaned CSVs to Flourish
+- Log in to Flourish.
+- Import CSV files.
+- Customize visualizations.
+- Embed in your site using iframes.
 
-Global_Renewable_Energy_Indicators.ipynb to generate all Python visualizations.
-
-Upload cleaned CSVs to Flourish
-
-Log in to Flourish.
-
-Import CSV files.
-
-Customize visualizations.
-
-Embed in your site using iframes.
-
-Pooja Arumugam
-LinkedIn | GitHub
 
 Feel free to connect to discuss data analytics, visualization, and sustainability!
