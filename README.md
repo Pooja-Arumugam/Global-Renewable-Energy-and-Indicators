@@ -1,10 +1,8 @@
 # Global-Renewable-Energy-and-Indicators
 
-## Datathon winni
-
 ##### Take a look at the project: https://sites.google.com/view/datathwerhabej/home?authuser=0
 
-This project provides a comprehensive analysis and interactive storytelling of global renewable energy trends and sustainability indicators. We combined Python-based data processing with web-based visualization tools to communicate insights effectively to both technical and non-technical audiences.
+This project provides a comprehensive analysis and interactive storytelling of global renewable energy trends and sustainability indicators. It combined Python-based data processing with web-based visualization tools to communicate insights effectively to both technical and non-technical audiences.
 
 ## 📂 Project Structure
 ![image](https://github.com/user-attachments/assets/58961f31-f993-4acd-a66e-ebd560d7417d)
