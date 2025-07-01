@@ -6,14 +6,17 @@ This project provides a comprehensive analysis and interactive storytelling of g
 
 ## 📂 Project Structure
 
-Global-Renewable-Energy-and-Indicators/
-├── Dataset/
-│ ├── datathon-20250701T011041Z-1-001.zip
-│ └── d.txt
-├── Global_Renewable_Energy_Indicators.ipynb
-├── Untitled4.ipynb
-├── flourishcode.ipynb(datathon).ipynb
-├── README.md
+3  ```
+4  Global-Renewable-Energy-and-Indicators/
+5  ├── Dataset/
+6  │   ├── datathon-20250701T011041Z-1-001.zip
+7  │   └── d.txt
+8  ├── Global_Renewable_Energy_Indicators.ipynb
+9  ├── Untitled4.ipynb
+10 ├── flourishcode.ipynb(datathon).ipynb
+11 ├── README.md
+12 ```
+
 
 ### Technical Workflow
 1️⃣ Data Preparation
