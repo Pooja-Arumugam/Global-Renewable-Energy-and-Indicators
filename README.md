@@ -49,36 +49,20 @@ Notebook:
 - Combined exploratory data analysis with presentation-quality graphics.
 
   ## Detailed Visualizations and Their Impact:
-  
-✅ Global Renewable Energy Production by Continent (Bar Chart)
-Impact: Identified leading regions (Europe and Asia combined for ~60% of production), supporting targeted policy recommendations.
+ [media pointer="file-service://file-6bctPRnRm82XkrjB7PHntS"]
+- This is a hexbin plot (hexagonal binning plot)
+- What it does:
+    - It divides your 2D space (Solar Irradiance vs. Production) into hexagonal cells.
+    - Each hexagon shows how many data points fall into that area.
+    - The color intensity represents the count of observations (darker = more data points).
+    - It’s especially useful for dense scatter data, because it avoids overplotting.
 
-✅ CO2 Emissions Over Time (Line Plot)
-Impact: Highlighted a 15% decline in emissions in high-renewable countries, strengthening the narrative of environmental benefit.
-
-✅ Renewable Energy Share by Country (Horizontal Bar Chart)
-Impact: Enabled benchmarking across countries to pinpoint leaders and laggards.
-
-✅ Correlation Between GDP per Capita and Renewable Energy Adoption (Scatter Plot)
-Impact: Revealed a moderate positive correlation (Pearson r ≈ 0.42), informing economic analyses.
-
-✅ Heatmap of CO2 Emissions by Country and Year
-Impact: Helped pinpoint countries with persistently high emissions, guiding recommendations.
-
-✅ Boxplot of Renewable Energy Production by Region
-Impact: Exposed disparities in production levels and variability.
-
-✅ Time Series Comparison of Renewable and Non-Renewable Production
-Impact: Demonstrated crossover points where renewables surpassed non-renewables.
-
-✅ Pie Chart of Global Energy Mix (Most Recent Year)
-Impact: Communicated that renewables contributed ~32% of energy in the last recorded year.
-
-✅ Top 10 Countries by Renewable Energy Growth Rate (Bar Chart)
-Impact: Highlighted fast-growing markets, supporting investment-focused insights.
-
-✅ Animated Line Plot of CO2 Emissions vs Renewable Adoption
-Impact: Improved engagement with a dynamic view of progress over time.
+  [media pointer="file-service://file-2gTzvch42jZEFKGAMsviux"]
+- This is a stacked area chart (sometimes called an area plot)
+- What it does:
+  - Shows how multiple categories contribute to a total over time.
+  - Each colored band represents one category (here, each Energy Type).
+  - The height of the total filled area shows the combined production each year.
 
 ### Outcomes
 - Engineered a robust data pipeline to clean, validate, and segment a complex renewable energy dataset into 7+ thematic CSVs, improving clarity and accelerating visualization workflows by 40%.
@@ -89,17 +73,9 @@ Impact: Improved engagement with a dynamic view of progress over time.
 
 ### How to Reproduce
 Clone this repository
-
-bash
-Copy
-Edit
-git clone https://github.com/Pooja-Arumugam/Global-Renewable-Energy-and-Indicators.git
-cd Global-Renewable-Energy-and-Indicators
-Set up your Python environment
-nginx
-Copy
-Edit
-
+- git clone https://github.com/Pooja-Arumugam/Global-Renewable-Energy-and-Indicators.git
+   - cd Global-Renewable-Energy-and-Indicators
+- Set up your Python environment
 - Run data processing notebooks
 - Untitled4.ipynb and flourishcode.ipynb(datathon).ipynb to prepare and split data for Flourish.
 - Global_Renewable_Energy_Indicators.ipynb to generate all Python visualizations.
@@ -109,7 +85,5 @@ Edit
 - Customize visualizations.
 - Embed in your site using iframes.
 
+### Feel free to connect to discuss data analytics, visualization, and sustainability!
 
-Feel free to connect to discuss data analytics, visualization, and sustainability!
-
-this is my read me file, but i want it to look more better
