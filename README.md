@@ -8,47 +8,29 @@ This project provides a comprehensive analysis and interactive storytelling of g
 ![image](https://github.com/user-attachments/assets/58961f31-f993-4acd-a66e-ebd560d7417d)
 
 
-
-
 ### Technical Workflow
 1️⃣ Data Preparation
 Dataset Source:
-Original data archive located in the Dataset/ folder.
-
-Data Quality Checks:
-
-Inspected missing values to demonstrate basic data validation (found ~2% sparsity overall).
-
-Cleaned and standardized column names for consistency.
-
-Dataset Splitting:
-
-Used flourishcode.ipynb(datathon).ipynb and Untitled4.ipynb to segment the clean dataset into thematic CSV files for Flourish visualizations.
-
-Generated 7+ targeted CSV subsets optimized for visual storytelling (e.g., energy by region, CO2 emissions, GDP vs renewables).
+- Original data archive located in the Dataset/ folder.
+   Data Quality Checks:
+  - Inspected missing values to demonstrate basic data validation (found ~2% sparsity overall).
+  - Cleaned and standardized column names for consistency.
+   Dataset Splitting:
+  - Used flourishcode.ipynb(datathon).ipynb and Untitled4.ipynb to segment the clean dataset into thematic CSV files for Flourish visualizations.
+  - Generated 7+ targeted CSV subsets optimized for visual storytelling (e.g., energy by region, CO2 emissions, GDP vs renewables).
 
 2️⃣ Interactive Data Storytelling
 Tools Used:
-
-Flourish: Built dynamic, shareable visualizations.
-
-Google Sites: Hosted all interactive charts in a cohesive narrative.
-
+- Flourish: Built dynamic, shareable visualizations.
+- Google Sites: Hosted all interactive charts in a cohesive narrative.
 Implementation:
-
-Imported each cleaned CSV into Flourish.
-
-Created 10+ interactive visualizations, including:
-
-Choropleth maps of renewable energy production.
-
-Time series of CO2 emissions.
-
-Correlation plots of GDP and renewable adoption.
-
+- Imported each cleaned CSV into Flourish.
+- Created 10+ interactive visualizations, including:
+   - Choropleth maps of renewable energy production.
+   - Time series of CO2 emissions.
+   - Correlation plots of GDP and renewable adoption.
 Embedded Flourish iframes into Google Sites for public access.
 
-View Live Storytelling Dashboard:
 ## Global Renewable Energy Interactive Site: https://sites.google.com/view/datathwerhabej/home?authuser=0
 
 3️⃣ Python Data Visualization
