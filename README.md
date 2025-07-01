@@ -4,16 +4,16 @@
 
 This project provides a comprehensive analysis and interactive storytelling of global renewable energy trends and sustainability indicators. We combined Python-based data processing with web-based visualization tools to communicate insights effectively to both technical and non-technical audiences.
 
-### Project Structure
+## 📂 Project Structure
+
 Global-Renewable-Energy-and-Indicators/
 ├── Dataset/
-│   ├── datathon-20250701T011041Z-1-001.zip
-│   └── d.txt
+│ ├── datathon-20250701T011041Z-1-001.zip
+│ └── d.txt
 ├── Global_Renewable_Energy_Indicators.ipynb
 ├── Untitled4.ipynb
 ├── flourishcode.ipynb(datathon).ipynb
 ├── README.md
-
 
 ### Technical Workflow
 1️⃣ Data Preparation
