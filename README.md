@@ -1,10 +1,10 @@
-# Global-Renewable-Energy-and-Indicators
-
-##### Take a look at our project: https://sites.google.com/view/datathwerhabej/home?authuser=0
+Global Renewable Energy and Indicators
+Take a look at our project:
+🔗 Interactive Dashboard
 
 This project provides a comprehensive analysis and interactive storytelling of global renewable energy trends and sustainability indicators. We combined Python-based data processing with web-based visualization tools to communicate insights effectively to both technical and non-technical audiences.
 
-### Project Structure
+📂 Project Structure
 python
 Copy
 Edit
@@ -16,8 +16,7 @@ Global-Renewable-Energy-and-Indicators/
 ├── Untitled4.ipynb
 ├── flourishcode.ipynb(datathon).ipynb
 ├── README.md
-
-### Technical Workflow
+🛠️ Technical Workflow
 1️⃣ Data Preparation
 Dataset Source:
 Original data archive located in the Dataset/ folder.
@@ -37,9 +36,9 @@ Generated 7+ targeted CSV subsets optimized for visual storytelling (e.g., energ
 2️⃣ Interactive Data Storytelling
 Tools Used:
 
-Flourish: Built dynamic, shareable visualizations.
+🌐 Flourish: Built dynamic, shareable visualizations.
 
-Google Sites: Hosted all interactive charts in a cohesive narrative.
+🟢 Google Sites: Hosted all interactive charts in a cohesive narrative.
 
 Implementation:
 
@@ -56,25 +55,31 @@ Correlation plots of GDP and renewable adoption.
 Embedded Flourish iframes into Google Sites for public access.
 
 View Live Storytelling Dashboard:
-## Global Renewable Energy Interactive Site: https://sites.google.com/view/datathwerhabej/home?authuser=0
+👉 Global Renewable Energy Interactive Site
 
 3️⃣ Python Data Visualization
 Notebook:
-- Global_Renewable_Energy_Indicators.ipynb
-- Environment:
-- Python 3.x
-   - Libraries:
-   - pandas
-   - matplotlib
-   - seaborn
-   - plotly
 
-### Overview:
-- Generated 15+ static and interactive charts to supplement the Flourish visuals.
-- Combined exploratory data analysis with presentation-quality graphics.
+Global_Renewable_Energy_Indicators.ipynb
 
-  ## Detailed Visualizations and Their Impact:
-  
+Environment:
+
+Python 3.x
+
+pandas
+
+matplotlib
+
+seaborn
+
+plotly
+
+🔍 Overview
+Generated 15+ static and interactive charts to supplement the Flourish visuals.
+
+Combined exploratory data analysis with presentation-quality graphics.
+
+🎨 Detailed Visualizations and Their Impact
 ✅ Global Renewable Energy Production by Continent (Bar Chart)
 Impact: Identified leading regions (Europe and Asia combined for ~60% of production), supporting targeted policy recommendations.
 
@@ -105,34 +110,43 @@ Impact: Highlighted fast-growing markets, supporting investment-focused insights
 ✅ Animated Line Plot of CO2 Emissions vs Renewable Adoption
 Impact: Improved engagement with a dynamic view of progress over time.
 
-### Outcomes
-- Engineered a robust data pipeline to clean, validate, and segment a complex renewable energy dataset into 7+ thematic CSVs, improving clarity and accelerating visualization workflows by 40%.
-- Developed 10+ interactive Flourish dashboards embedded in Google Sites to engage diverse audiences, increasing stakeholder interaction and comprehension by 40%.
-- Optimized project execution by dividing workstreams into parallel data preparation and visualization tasks, reducing overall delivery timelines by 40%.
-- Illustrated CO2 reduction trends and renewable adoption impacts through 15+ Python visualizations, demonstrating emissions declines of up to 25% over a decade.
-- Standardized inconsistent global indicators by normalizing units and formatting data, achieving 90% consistency and reliability across all analyses.
+🎯 Outcomes
+Engineered a robust data pipeline to clean, validate, and segment a complex renewable energy dataset into 7+ thematic CSVs, improving clarity and accelerating visualization workflows by 40%.
 
-### How to Reproduce
-Clone this repository
+Developed 10+ interactive Flourish dashboards embedded in Google Sites to engage diverse audiences, increasing stakeholder interaction and comprehension by 40%.
+
+Optimized project execution by dividing workstreams into parallel data preparation and visualization tasks, reducing overall delivery timelines by 40%.
+
+Illustrated CO2 reduction trends and renewable adoption impacts through 15+ Python visualizations, demonstrating emissions declines of up to 25% over a decade.
+
+Standardized inconsistent global indicators by normalizing units and formatting data, achieving 90% consistency and reliability across all analyses.
+
+🚀 How to Reproduce
+Clone this repository:
 
 bash
 Copy
 Edit
 git clone https://github.com/Pooja-Arumugam/Global-Renewable-Energy-and-Indicators.git
 cd Global-Renewable-Energy-and-Indicators
-Set up your Python environment
-nginx
+Set up your Python environment:
+
+bash
 Copy
 Edit
+pip install -r requirements.txt
+Run data processing notebooks:
 
-- Run data processing notebooks
-- Untitled4.ipynb and flourishcode.ipynb(datathon).ipynb to prepare and split data for Flourish.
-- Global_Renewable_Energy_Indicators.ipynb to generate all Python visualizations.
-- Upload cleaned CSVs to Flourish
-- Log in to Flourish.
-- Import CSV files.
-- Customize visualizations.
-- Embed in your site using iframes.
+Untitled4.ipynb and flourishcode.ipynb(datathon).ipynb to prepare and split data for Flourish.
 
+Global_Renewable_Energy_Indicators.ipynb to generate all Python visualizations.
 
-Feel free to connect to discuss data analytics, visualization, and sustainability!
+Upload cleaned CSVs to Flourish:
+
+Log in to Flourish.
+
+Import CSV files.
+
+Customize visualizations.
+
+Embed in your site using iframes.
