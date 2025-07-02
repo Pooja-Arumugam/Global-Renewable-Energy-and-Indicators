@@ -49,7 +49,7 @@ Notebook:
 - Combined exploratory data analysis with presentation-quality graphics.
 
   ## Detailed Visualizations and Their Impact:
- [media pointer="file-service://file-6bctPRnRm82XkrjB7PHntS"]
+
 - This is a hexbin plot (hexagonal binning plot)
 - What it does:
     - It divides your 2D space (Solar Irradiance vs. Production) into hexagonal cells.
@@ -57,7 +57,7 @@ Notebook:
     - The color intensity represents the count of observations (darker = more data points).
     - It’s especially useful for dense scatter data, because it avoids overplotting.
 
-  [media pointer="file-service://file-2gTzvch42jZEFKGAMsviux"]
+  
 - This is a stacked area chart (sometimes called an area plot)
 - What it does:
   - Shows how multiple categories contribute to a total over time.
