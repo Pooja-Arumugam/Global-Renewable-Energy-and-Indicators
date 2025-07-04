@@ -50,7 +50,7 @@ Notebook:
 
   ## Detailed Visualizations and Their Impact:
 
-- This is a hexbin plot (hexagonal binning plot)
+- The hexbin plot (hexagonal binning plot)
 - What it does:
     - It divides your 2D space (Solar Irradiance vs. Production) into hexagonal cells.
     - Each hexagon shows how many data points fall into that area.
@@ -58,7 +58,7 @@ Notebook:
     - It’s especially useful for dense scatter data, because it avoids overplotting.
 
   
-- This is a stacked area chart (sometimes called an area plot)
+- The stacked area chart (sometimes called an area plot)
 - What it does:
   - Shows how multiple categories contribute to a total over time.
   - Each colored band represents one category (here, each Energy Type).
